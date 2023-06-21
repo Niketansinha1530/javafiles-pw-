@@ -1,4 +1,6 @@
 
+
+
 public class ComplexPattern {
 
 	public static void main(String[] args) 

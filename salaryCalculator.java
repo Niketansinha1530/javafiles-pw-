@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 public class salaryCalculator {
 public static void main(String []argu) {
